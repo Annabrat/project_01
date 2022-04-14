@@ -10,6 +10,6 @@ shop_list = ['Картофель', 'Горошек', 'Рис', 'Хлеб']
 shop_list.insert(2, 'Рыба')
 print(shop_list)
 
-fruits = ['Яблокы', 'Бананы', 'Ананасы']
+fruits = ['Яблоко', 'Апельсин', 'Клубника']
 shop_list += fruits
 print(shop_list)
